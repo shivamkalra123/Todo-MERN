@@ -1,0 +1,35 @@
+.signup{
+    width: 100%;
+    height: 100vh;
+}
+.about{
+    width: 100%;
+    height: 100vh;
+}
+.about p{
+    text-align:justify ;
+    text-justify: inter-word;
+}
+.about h1{
+    border-bottom: 2px solid red;
+    padding: 5px;
+
+}
+.column{
+    height: 100vh;
+}
+.sign-up-heading{
+font-size: 100px;
+color: red;
+opacity: 0.8;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+    outline: none;
+    border: none;
+}
+.input-signup{
+    outline: none;
+}
